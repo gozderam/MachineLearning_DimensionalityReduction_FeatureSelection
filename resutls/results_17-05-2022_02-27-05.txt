@@ -1,0 +1,15 @@
+variance_trh_fs-scaller-boruta_fs-pca_fe-rf,0.66,16,4
+variance_trh_fs-scaller-boruta_fs-rf,0.74,22,22
+variance_trh_fs-scaller-rf,0.75,9920,9920
+variance_trh_fs-scaller-kbest_fs-rf,0.72,300,300
+variance_trh_fs-scaller-pca_fe-rf,0.75,9920,42
+variance_trh_fs-scaller-kbest_mi_fs-rf,0.79,15,15
+variance_trh_fs-scaller-logregl1_fs-rf,0.77,145,145
+variance_trh_fs-scaller-logregl2_fs-rf,0.79,4119,4119
+variance_trh_fs-scaller-gb,0.71,9920,9920
+variance_trh_fs-scaller-kbest_fs-gb,0.63,300,300
+variance_trh_fs-scaller-pca_fe-gb,0.78,9920,24
+variance_trh_fs-scaller-logregl1_fs-gb,0.59,103,103
+variance_trh_fs-scaller-logregl2_fs-gb,0.69,4084,4084
+variance_trh_fs-scaller-boruta_fs-gb,0.66,21,21
+
